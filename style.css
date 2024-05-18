@@ -1,0 +1,381 @@
+#navbar a{
+    margin: 20px ;
+}
+#navlink{
+    color: Blue;
+  border-bottom: 3px solid Blue;
+  transition: 1s;
+}
+#btn1{
+    height: 50px;
+    background-color: rgb(90, 45, 196);
+}
+#btn2{
+    height: 50px;
+    background-color: #6bc448;
+}
+
+.navbar{
+    position: fixed;
+    background-color: white;
+}
+strong{
+    color: #6bc448;
+}
+#text{
+    
+    width: 50%;
+    height: 40%;
+    margin-top: 190px;
+    margin-left: 25px;
+}
+#second-img{
+    float: right;
+    width: 45%;
+    height: 40%;
+    margin-top: -400px;
+}
+#btn3{
+    padding: 20px 30px;
+}
+#text-btn{
+    margin-top: 300px;
+   width: 95%; 
+   height: 100px;
+   background-color: rgb(236, 250, 219);
+   margin-left: 30px;
+   border-radius: 10px;
+}
+#text-btn1{
+margin-left: 20px;
+float: left;
+margin-top: 30px;
+}
+#Blood{
+    padding: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+    transition: 1s;
+    margin-left: 30px;
+    background-color: white; 
+     border:  solid white;
+}
+    
+
+#Blood:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.20) translateY(-5%);
+    border-color: black;
+}
+#Kifalat{
+    padding: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+    transition: 1s;
+    margin-left: 30px;
+    background-color: white;
+    border:  solid white;
+}
+
+#Kifalat:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.40) translateY(-5%);
+    border-color: black;
+}
+#medical{
+    padding: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+    transition: 1s;
+    margin-left: 30px;
+    background-color: white;
+    border:  solid white;
+}
+
+#medical:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.40) translateY(-5%);
+    border-color: black;
+}
+#Food{
+    padding: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+    transition: 1s;
+    margin-left: 30px;
+    background-color: white;
+    border:  solid white;
+}
+#Food:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.40) translateY(-5%);
+    border-color: black;
+}
+#donate{
+    padding: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+    transition:  1s;
+    background-color: #6bc448;
+    margin-left: 30px;
+    border:  solid #6bc448;
+}
+#donate:hover{
+    transform: scale(1.50) translateY(-5%);
+    border-color: #53c053;
+}
+#p-img{
+    height: 560px;
+    width: 95%;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+}
+#settle{
+    width: 95%;
+    height: 200px;
+    margin-left: 30px;
+}
+#wel{
+    height: 150px;
+    width: 190px;
+    margin-top: 40px;
+    background-color: rgb(236, 250, 219);
+    border-radius: 10px;
+}
+#f44{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#med{
+    height: 150px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 210px;
+    background-color: rgb(236, 250, 219);
+    border-radius: 10px;
+    margin-top: -149px;
+}
+#sadq{
+    height: 150px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 430px;
+    background-color: rgb(236, 250, 219);
+    border-radius: 10px;
+    margin-top: -150px;
+}
+#cln-wtr{
+    height: 150px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 660px;
+    background-color: rgb(236, 250, 219);
+    border-radius: 10px;
+    margin-top: -150px;
+}
+#edu{
+    height: 150px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 880px;
+    background-color: rgb(236, 250, 219);
+    border-radius: 10px;
+    margin-top: -150px;
+}
+#food{
+    height: 150px;
+    width: 180px;
+    margin-top: 40px;
+    margin-left: 1100px;
+    background-color: rgb(236, 250, 219);
+    border-radius: 10px;
+    margin-top: -150px;
+}
+#card1{
+    height: 220px;
+    width: 410px;
+    background-image: url(./img/it.jpg);
+    border: 1px solid black;
+    margin-top: 40px;
+    border-radius: 10px;
+    border-color: transparent;
+    
+}
+#course{
+margin-top: 140px;
+margin-left: 60px;
+color: white;
+font-weight: 900;
+}
+#card-btn{
+    height: 40px;
+    width: 350px;
+margin-left: 30px;
+margin-top: 10px;
+background-color: #53c053;
+color: white;
+border-color: transparent;
+border-radius: 7px;
+}
+#dis{  
+    display: flex;
+    gap: 50px;
+}
+#card2{
+    background-image: url(./img/madad.jpg);
+    height: 220px;
+    width: 410px;
+    background-size: cover;
+    border: 1px solid black;
+    margin-top: 40px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+#card3{
+    background-image: url(./img/hunger.jpg);
+    height: 220px;
+    width: 410px;
+    background-size: cover;
+    border: 1px solid black;
+    margin-top: 40px;
+    border-radius: 10px;
+    border-color: transparent;
+}
+#card1:hover{
+    transform: scale(1.05) translateY(-5%);
+    transition: 0.5s;
+}
+#card2:hover{
+    transform: scale(1.05) translateY(-5%);
+    transition: 0.5s;
+}
+#card3:hover{
+    transform: scale(1.05) translateY(-5%);
+    transition: 0.5s;
+}
+#p-img2{
+    background-image: url(./img/my.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    border-radius: 10px;
+    margin-top: 40px;
+    height: 500px;
+    width: 600px;
+}
+#img-top{
+    background-color: #70af3c;
+     height: 200px;
+     width: 300px;
+     font-size: 30px;
+     border-radius: 10px;
+     color: white;
+     font-weight: 500;
+     text-align: center;
+}
+#txt-project{
+    /* border: 2px solid black;     */
+    display: block;
+    width: 590px;
+    float: right;
+    margin-right: 20px;
+    margin-top: -500px;
+}
+.p-prj{
+    margin-left: 40px;
+}
+#ul-1{
+    height: 50px;
+    width: 25px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: rgb(233, 242, 245) ;
+}
+#ul-2{
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 30px;
+    width: 25px;
+    background-color: rgb(233, 242, 245) ;
+}
+#ul-3{
+    height: 50px;
+    margin-top: 30px;
+    width: 25px;
+    border-radius: 15px;
+    background-color: rgb(233, 242, 245) ;
+}
+#ul-4{
+    height: 50px;
+    width: 25px;
+    margin-top: 30px;
+    border-radius: 15px;
+    background-color: rgb(233, 242, 245) ;
+}
+#blbg{
+    background-color: rgb(43, 23, 218) ;
+    height: 400px;
+    width: 95%;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.parent{
+    display: grid;
+    justify-content: space-around;
+}
+#child1{
+    height: 120px;
+    width: 120px;
+    margin-left: -10px;
+    background-color: white;
+    margin-top: -320px;
+    border-radius: 50%;
+}
+#child2{
+    height: 120px;
+    width: 120px;
+    margin-left: 250px;
+    background-color: white;
+    margin-top: -320px;
+    border-radius: 50%;
+}
+#child3{
+    height: 120px;
+    width: 120px;
+    margin-left: 550px;
+    background-color: white;
+    margin-top: -320px;
+    border-radius: 50%;
+}
+#child4{
+    height: 120px;
+    width: 120px;
+    margin-left: 800px;
+    background-color: white;
+    margin-top: -320px;
+    border-radius: 50%;
+}
+#slide{
+    height: 400px;
+    width: 95%;
+    margin-top: 40px;
+    margin-left: 30px;
+    background-color: rgb(223, 226, 240);
+}
+#img-wali{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 45%;
+    margin-top: 30px;
+}
+
+
+
+ 
